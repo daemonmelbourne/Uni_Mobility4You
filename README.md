@@ -1,2 +1,2 @@
 # Uni_Mobility4You
-Uni assignment
+University assignment for the "OOP Java" discipline from second year, second semester.

@@ -1,0 +1,5 @@
+ELECTRIC_CAR Tesla, Model 2, 160KW, 100000Ah, 3989.78 euro
+GAS_CAR Honda, Civ, 2.0L, 95KW, 180.0 euro
+HYBRID_CAR Toyota, Prius, 2.0L, 60KW, 13000Ah, 240.5 euro
+ELECTRIC_CAR gascr, 350e, 150KW, 1500Ah, 4500.0 euro
+ELECTRIC_CAR Tesla, Model 2, 150KW, 4500Ah, 56650.0 euro
